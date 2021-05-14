@@ -1,5 +1,5 @@
 # VRDrawing_HandTracking
-# VRDrawing_Controller
+
 
 VR空間で空間または平面に絵を描くことができるアプリ
 
