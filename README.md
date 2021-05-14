@@ -28,7 +28,7 @@ git clone https://github.com/damakoo/VRDrawing_HandTracking.git
 
 Unity Hubでcloneしたプロジェクトを指定する
 
-Project > Assets > Scenes > VRDrawing_Controller.unity　を開く
+Project > Assets > Scenes > VRDrawing_handtracking.unity　を開く
 
 Oculus Questを接続し，File > Build And Run で実行
 
